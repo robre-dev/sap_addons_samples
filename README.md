@@ -1,6 +1,6 @@
-# SAP B1 Technical Test
-
-Editor Markdown es un editor online que se ejecuta en tu navegador y que funciona tanto con tus archivos locales como con varios servicios de almacenamiento cloud.
+# SAP B1 Technical Test Developer
+[img1]: https://upload.wikimedia.org/wikipedia/commons/4/4d/SAP-Business-One-Logo.png
+![img1]
 
 ## Introduction
 ### Overview
