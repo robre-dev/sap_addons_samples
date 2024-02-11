@@ -1,0 +1,10 @@
+﻿{
+  "settings": {
+    "documentationRules": {
+      "companyName": "Jorge Robredo",
+      "copyrightText": "Copyright (c) Developed by {companyName}. All rights reserved.",
+      "headerDecoration": "-----------------------------------------------------------------------"
+    }
+  }
+
+}

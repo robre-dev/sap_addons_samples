@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="SBOAddonDeliveries1.1.3" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="SBOAddonDeliveries 1.1.3" ExtVersion="1.1.3" Contdata="Jorge Rorbredo +50433974391" Partner="SBOAddonDeliveries1.1.3" DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="SBOAddonDeliveries.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="SBOAddonDeliveries.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.b1s">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.Core.pdb">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.exe">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.exe.config">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.pdb">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="Resources\TIcon.bmp">
+              <Actions />
+            </File>
+            <File FileName="Resources\TIcon.png">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.b1s">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.Core.pdb">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.exe">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.exe.config">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.pdb">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="SBOAddonDeliveries.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="Resources\TIcon.bmp">
+              <Actions />
+            </File>
+            <File FileName="Resources\TIcon.png">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
