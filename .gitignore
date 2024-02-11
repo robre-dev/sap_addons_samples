@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/Addons/SBOAddonDeliveries/SBOAddonDeliveries/packages
+/.vs/sap_addons_samples/FileContentIndex/03e58376-e006-4853-9ed0-453b17aa1379.vsidx
+/.vs/sap_addons_samples/FileContentIndex/0734b550-0840-448d-9339-8b40e450e107.vsidx
+/.vs/sap_addons_samples/FileContentIndex/a1d89bd8-2c31-4c1e-b588-0ecd0f30cfe0.vsidx
+/.vs/sap_addons_samples/FileContentIndex/af15438b-dadc-4539-a2ee-8638815c712f.vsidx
+/.vs/sap_addons_samples/FileContentIndex/e56a3d21-8e42-46b7-a729-3c239a04c099.vsidx
+/.vs/sap_addons_samples/FileContentIndex/b8452148-eadd-43e4-8ccc-285dc6a31b27.vsidx
