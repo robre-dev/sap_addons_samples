@@ -12,5 +12,12 @@ Addons:
 | Addons/SBOAddonDeliveries | UI API/DI API C# | *Prueba técnica, en la creación de entregas a partir de una orden de venta.* |
 |                           |                  |                                                              |
 |                           |                  |                                                              |
+DI API:
+
+| Proyecto                  | Tecnología       | Descripción                                                  |
+| ------------------------- | ---------------- | ------------------------------------------------------------ |
+| DI API/AttachmentsOrderSales | DI API C# | *Agrega archivos adjuntos a una orden de venta.* |
+|                           |                  |                                                              |
+|                           |                  |                                                              |
 
 
